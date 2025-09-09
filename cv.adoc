@@ -1,40 +1,81 @@
 :images-dir: habilidades
 
-=== Franco León Costantini 
-_Desarrollador de software_ +
-***Información Personal:*** +
-- Ubicacion: Argentina,Buenos Aires, José c paz +
-- Teléfono: +(54) 1157179268 +
-- Email: francoleonadress@gmail.com +
-- Portafolio: https://francoleon42.github.io/portafolio/ +
+=== Franco León Costantini
+---
+[.text-center.contact-table, grid=none, frame=none, stripes=none, %noheader]
+|===
+| Argentina, Buenos Aires, José C. Paz &#124; francoleonadress@gmail.com &#124; +54 11 5717-9268 &#124; link:https://francoleon42.github.io/portafolio/[Portafolio]
+|===
 
-Estoy motivado por la oportunidad de contribuir al éxito de la empresa y comprometido a asumir roles que me desafíen y me permitan crecer profesionalmente. Mi enfoque está en adquirir experiencia valiosa y asumir responsabilidades significativas que me permitan aportar un valor duradero y significativo. +
-Actualmente, soy estudiante en la última instancia para recibirme de Tecnico Universitario en Informática en la Universidad Nacional de General Sarmiento. Estoy buscando un empleo en el cual pueda aprender y aplicar mis habilidades y experiencia para contribuir al crecimiento de la empresa. 
 
-==== ***Formación Académica*** 	
-- *Licenciatura en Sistemas*:  Universidad General Sarmiento (2021-actualidad)(Cuarto año) +
-- *Desarrollador Web full stack*:  _Egg Academy_ (2022-2023) +
-- *Productividad Personal*:    _Google Active_  (2022-2022) +
-- *Fundamento Scrum*:  _Certi Prof_  (2024-2022) + 
+**_Desarrollador de software_** +
 
+Profesional de IT versátil con 2 años de experiencia en desarrollo full-stack y habilidades clave en optimización de código, desarrollo de APIs RESTful y aplicaciones móviles. Además de mis logros técnicos, he desarrollado una sólida capacidad de comunicación y enseñanza como docente de programación universitaria Busco un puesto de tiempo completo en una empresa que valore el aprendizaje continuo y donde pueda aportar valor con mis habilidades técnicas y de trabajo en equipo.
+
+// La formacion es cuadro de dos columnas donde la primer va el titulo y en la otra la institucion y fecha
+==== ***Formación Académica***
+
+[grid=none, frame=none, cols="60,50"]
+|===
+| *Licenciatura en Sistemas* (70%)  
+| [small]#**Universidad Nacional de General Sarmiento**, 2021-act#
+
+| *Curso Fundamento Scrum CertiProf*  
+| [small]#**CertiProf**, Enero 2023#
+
+| *Desarrollador Web Full Stack* 
+| [small]#**Egg Academy**, Diciembre 2022- May 2023#
+
+| *Curso Productividad Personal*  
+| [small]#**Google Active**, Diciembre 2022#
+|===
+
+
+// La experiencia profesional tiene un titulo en formato columna la primera es el titulo con su empresa y la otra el rango de fechas
+// Debajo un listado de las tareas realizadas con orientacion a logros
 ==== ***Experiencia Profesional*** 
 
-* **Desarrollador Backend**: _Innovatech Solutions_ (2023-2024) + 
-En Innovatech Solutions, me enfoqué en optimizar y mantener aplicaciones web existentes, mejorando el rendimiento y la eficiencia. +
-** Mejoré el rendimiento de las aplicaciones en un 20% mediante optimización de código y análisis de desempeño. +
-** Desarrollé y mantuve APIs RESTful para integrar nuevos servicios, aumentando la funcionalidad del sistema. + 
-** Colaboré con equipos multidisciplinarios utilizando metodologías ágiles, resultando en mayor eficiencia en el desarrollo de nuevas funcionalidades. + 
+//
+//[grid=none, frame=none, cols="90,20"]
+//|===
+//| **Desarrollador Backend – _Innovatech Solutions_**
+//| [small]#_(Ene 2023- Sep 2024)_# 
+//|===
 
-* **Profesor de Introducción a la Programación**:  _Universidad Nacional General Sarmiento_ (2024-act) +
-Imparto clases de programación, ayudando a los estudiantes a entender conceptos clave y mejorar sus habilidades técnicas. + 
-** Diseño y ejecuto actividades prácticas y evaluaciones para fortalecer los conocimientos de los estudiantes.
-** Brindo orientación personalizada a los estudiantes durante el desarrollo de proyectos y ejercicios.
-** Evalúo el progreso de los estudiantes, proporcionando retroalimentación constructiva para mejorar su desempeño.
+//** Optimización y mantenimiento de aplicaciones web, mejorando el rendimiento y la eficiencia del sistema en un 20%.
+//** Desarrollo y mantenimiento de APIs RESTful para integrar nuevos servicios y ampliar la funcionalidad de las aplicaciones.
+//** Colaboración con equipos multidisciplinarios bajo metodologías ágiles, incrementando la eficiencia en el desarrollo de nuevas funcionalidades.
 
-* **Desarrollador de software:** _Teset (Entidad Financiera)_ (2024-act) +
-Desarrollo sistemas y aplicaciones para automatizar procesos internos y mejorar la experiencia de sus clientes. +
-** Implementé soluciones tecnológicas que optimizan procesos administrativos y reducen errores.
-** Creé aplicaciones móviles para clientes, facilitando el acceso a servicios financieros.
+    
+[grid=none, frame=none, cols="90,20"]
+|===
+| **Profesor de Programación – _Universidad Nacional General Sarmiento_** 
+| [small]#_(Jun 2024 - actualidad)_#  
+|===
+
+** Impartí clases en Introducción a la Programación (2024) y Fundamentos de Programación (2025), ayudando a los estudiantes a comprender conceptos clave y desarrollar habilidades técnicas.
+** Diseñé y coordiné actividades prácticas y evaluaciones, brindando orientación personalizada y retroalimentación constructiva para fortalecer el aprendizaje.
+
+
+[grid=none, frame=none, cols="90,20"]
+|===
+| **Desarrollador de software – _Teset (Entidad Financiera)_**  
+| [small]#_(Oct 2024- Dic 2025)_# 
+|===
+
+** Desarrollo de sistemas y aplicaciones para automatizar procesos internos y mejorar la experiencia de clientes.
+** Implementación de soluciones tecnológicas que optimizan procesos administrativos y reducen errores operativos.
+** Creación de aplicaciones móviles para clientes, facilitando el acceso a servicios financieros y aumentando la eficiencia del uso de los mismos.
+
+[grid=none, frame=none, cols="90,20"]
+|===
+| **Desarrollador de software – _GRÚAS SAN BLAS S.A_** 
+| [small right]#(Ene 2025 – Sep 2025)#
+|===
+** Mantenimiento y desarrollo de nuevas funcionalidades en el ERP de la empresa, incluyendo integración con módulos adicionales.
+** Trabajo en equipo de 12 personas, participando en todas las etapas del ciclo de desarrollo. 
+** Desarrollo backend en Java utilizando CUBA Platform, asegurando eficiencia y escalabilidad del sistema.
+** Contribución a la optimización de procesos internos a través de soluciones de software.
  
 
 
