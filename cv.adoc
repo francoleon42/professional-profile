@@ -2,10 +2,8 @@
 
 === Franco León Costantini
 ---
-[.text-center.contact-table, grid=none, frame=none, stripes=none, %noheader]
-|===
-| Argentina, Buenos Aires, José C. Paz &#124; francoleonadress@gmail.com &#124; +54 11 5717-9268 &#124; link:https://francoleon42.github.io/portafolio/[Portafolio]
-|===
+[.text-center]
+Argentina, Buenos Aires, José C. Paz &#124; francoleonadress@gmail.com &#124; +54 11 5717-9268 &#124; link:https://francoleon42.github.io/portafolio/[Portafolio]
 
 
 **_Desarrollador de software_** +
@@ -13,6 +11,7 @@
 Profesional de IT versátil con 2 años de experiencia en desarrollo full-stack y habilidades clave en optimización de código, desarrollo de APIs RESTful y aplicaciones móviles. Además de mis logros técnicos, he desarrollado una sólida capacidad de comunicación y enseñanza como docente de programación universitaria Busco un puesto de tiempo completo en una empresa que valore el aprendizaje continuo y donde pueda aportar valor con mis habilidades técnicas y de trabajo en equipo.
 
 // La formacion es cuadro de dos columnas donde la primer va el titulo y en la otra la institucion y fecha
+[.subtitulo]
 ==== ***Formación Académica***
 
 [grid=none, frame=none, cols="60,50"]
@@ -33,18 +32,19 @@ Profesional de IT versátil con 2 años de experiencia en desarrollo full-stack 
 
 // La experiencia profesional tiene un titulo en formato columna la primera es el titulo con su empresa y la otra el rango de fechas
 // Debajo un listado de las tareas realizadas con orientacion a logros
+[.subtitulo]
 ==== ***Experiencia Profesional*** 
 
-//
-//[grid=none, frame=none, cols="90,20"]
-//|===
-//| **Desarrollador Backend – _Innovatech Solutions_**
-//| [small]#_(Ene 2023- Sep 2024)_# 
-//|===
 
-//** Optimización y mantenimiento de aplicaciones web, mejorando el rendimiento y la eficiencia del sistema en un 20%.
-//** Desarrollo y mantenimiento de APIs RESTful para integrar nuevos servicios y ampliar la funcionalidad de las aplicaciones.
-//** Colaboración con equipos multidisciplinarios bajo metodologías ágiles, incrementando la eficiencia en el desarrollo de nuevas funcionalidades.
+[grid=none, frame=none, cols="90,20"]
+|===
+| **Desarrollador Backend – _Innovatech Solutions_**
+| [small]#_(Ene 2023- Sep 2024)_# 
+|===
+
+** Optimización y mantenimiento de aplicaciones web, mejorando el rendimiento y la eficiencia del sistema en un 20%.
+** Desarrollo y mantenimiento de APIs RESTful para integrar nuevos servicios y ampliar la funcionalidad de las aplicaciones.
+|** Colaboración con equipos multidisciplinarios bajo metodologías ágiles, incrementando la eficiencia en el desarrollo de nuevas funcionalidades.
 
     
 [grid=none, frame=none, cols="90,20"]

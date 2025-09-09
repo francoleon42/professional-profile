@@ -21,15 +21,15 @@ heading:
     font_size: 13            # Tamaño de la fuente para el título de nivel 4
     font_color: 003366       # Color del texto en hexadecimal
     align: center            # Alineación del texto
-    top_margin: 0.1            # Margen superior
-    bottom_margin: 0.1
+    top_margin: 15           # Margen superior
+    bottom_margin: 15
     line_height: 0.1
 
 ## configuracion de pagina 
 page:
   size: A4
   layout: portrait
-  margin: [0.2in, 0.4in, 0.4in, 0.4in] # top, right, bottom, left
+  margin: [0.4in, 0.4in, 0.4in, 0.4in] # top, right, bottom, left
 
 ## configuracion de texto normal
 base:
@@ -44,6 +44,9 @@ table:
   border_width: 0
 
 
-
+## esto esta para que la parte de informacion personal este pegada a la linea "---"
+block:
+  margin_top: 0
+  margin_bottom: 0
 
 
