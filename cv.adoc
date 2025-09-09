@@ -1,0 +1,42 @@
+:images-dir: habilidades
+
+=== Franco León Costantini 
+_Desarrollador de software_ +
+***Información Personal:*** +
+- Ubicacion: Argentina,Buenos Aires, José c paz +
+- Teléfono: +(54) 1157179268 +
+- Email: francoleonadress@gmail.com +
+- Portafolio: https://francoleon42.github.io/portafolio/ +
+
+Estoy motivado por la oportunidad de contribuir al éxito de la empresa y comprometido a asumir roles que me desafíen y me permitan crecer profesionalmente. Mi enfoque está en adquirir experiencia valiosa y asumir responsabilidades significativas que me permitan aportar un valor duradero y significativo. +
+Actualmente, soy estudiante en la última instancia para recibirme de Tecnico Universitario en Informática en la Universidad Nacional de General Sarmiento. Estoy buscando un empleo en el cual pueda aprender y aplicar mis habilidades y experiencia para contribuir al crecimiento de la empresa. 
+
+==== ***Formación Académica*** 	
+- *Licenciatura en Sistemas*:  Universidad General Sarmiento (2021-actualidad)(Cuarto año) +
+- *Desarrollador Web full stack*:  _Egg Academy_ (2022-2023) +
+- *Productividad Personal*:    _Google Active_  (2022-2022) +
+- *Fundamento Scrum*:  _Certi Prof_  (2024-2022) + 
+
+==== ***Experiencia Profesional*** 
+
+* **Desarrollador Backend**: _Innovatech Solutions_ (2023-2024) + 
+En Innovatech Solutions, me enfoqué en optimizar y mantener aplicaciones web existentes, mejorando el rendimiento y la eficiencia. +
+** Mejoré el rendimiento de las aplicaciones en un 20% mediante optimización de código y análisis de desempeño. +
+** Desarrollé y mantuve APIs RESTful para integrar nuevos servicios, aumentando la funcionalidad del sistema. + 
+** Colaboré con equipos multidisciplinarios utilizando metodologías ágiles, resultando en mayor eficiencia en el desarrollo de nuevas funcionalidades. + 
+
+* **Profesor de Introducción a la Programación**:  _Universidad Nacional General Sarmiento_ (2024-act) +
+Imparto clases de programación, ayudando a los estudiantes a entender conceptos clave y mejorar sus habilidades técnicas. + 
+** Diseño y ejecuto actividades prácticas y evaluaciones para fortalecer los conocimientos de los estudiantes.
+** Brindo orientación personalizada a los estudiantes durante el desarrollo de proyectos y ejercicios.
+** Evalúo el progreso de los estudiantes, proporcionando retroalimentación constructiva para mejorar su desempeño.
+
+* **Desarrollador de software:** _Teset (Entidad Financiera)_ (2024-act) +
+Desarrollo sistemas y aplicaciones para automatizar procesos internos y mejorar la experiencia de sus clientes. +
+** Implementé soluciones tecnológicas que optimizan procesos administrativos y reducen errores.
+** Creé aplicaciones móviles para clientes, facilitando el acceso a servicios financieros.
+ 
+
+
+
+
