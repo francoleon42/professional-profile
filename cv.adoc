@@ -8,7 +8,7 @@ Argentina, Buenos Aires, José C. Paz &#124; francoleonadress@gmail.com &#124; +
 
 **_Desarrollador de software_** +
 
-Profesional de IT versátil con 2 años de experiencia en desarrollo full-stack y habilidades clave en optimización de código, desarrollo de APIs RESTful y aplicaciones móviles. Además de mis logros técnicos, he desarrollado una sólida capacidad de comunicación y enseñanza como docente de programación universitaria Busco un puesto de tiempo completo en una empresa que valore el aprendizaje continuo y donde pueda aportar valor con mis habilidades técnicas y de trabajo en equipo.
+Profesional de IT versátil con 2 años de experiencia en desarrollo full-stack, especializado en optimización de código, desarrollo de APIs RESTful y aplicaciones móviles. Además de mis logros técnicos, cuento con experiencia docente en programación universitaria, fortaleciendo habilidades de comunicación y liderazgo. Busco un puesto de tiempo completo en una empresa que valore el aprendizaje continuo y donde pueda aportar valor con mis competencias técnicas y trabajo en equipo. 
 
 // La formacion es cuadro de dos columnas donde la primer va el titulo y en la otra la institucion y fecha
 [.subtitulo]
@@ -41,43 +41,35 @@ Profesional de IT versátil con 2 años de experiencia en desarrollo full-stack 
 | **Desarrollador Backend – _Innovatech Solutions_**
 | [small]#_(Ene 2023- Sep 2024)_# 
 |===
-
-** Optimización y mantenimiento de aplicaciones web, mejorando el rendimiento y la eficiencia del sistema en un 20%.
-** Desarrollo y mantenimiento de APIs RESTful para integrar nuevos servicios y ampliar la funcionalidad de las aplicaciones.
-|** Colaboración con equipos multidisciplinarios bajo metodologías ágiles, incrementando la eficiencia en el desarrollo de nuevas funcionalidades.
-
+** Desarrollo y mantenimiento de aplicaciones web en Java (Spring Boot, Thymeleaf) con MySQL, mejorando el rendimiento del sistema en un 20%.
+** Implementación de APIs RESTful para integrar nuevos servicios y ampliar la funcionalidad de las aplicaciones.
+** Trabajo colaborativo en entornos ágiles (Scrum) con Git para control de versiones, garantizando entregas iterativas de calidad.
     
 [grid=none, frame=none, cols="90,20"]
 |===
 | **Profesor de Programación – _Universidad Nacional General Sarmiento_** 
 | [small]#_(Jun 2024 - actualidad)_#  
 |===
-
-** Impartí clases en Introducción a la Programación (2024) y Fundamentos de Programación (2025), ayudando a los estudiantes a comprender conceptos clave y desarrollar habilidades técnicas.
-** Diseñé y coordiné actividades prácticas y evaluaciones, brindando orientación personalizada y retroalimentación constructiva para fortalecer el aprendizaje.
-
+** Impartición de clases en Introducción a la Programación y Fundamentos de Programación (Python), guiando a más de 150 estudiantes en la adquisición de competencias técnicas.
+** Diseño de material práctico y guías con código, facilitando la comprensión de estructuras de datos y algoritmos.
+** Desarrollo de evaluaciones y actividades aplicadas, fomentando el aprendizaje activo y el pensamiento lógico.
 
 [grid=none, frame=none, cols="90,20"]
 |===
 | **Desarrollador de software – _Teset (Entidad Financiera)_**  
 | [small]#_(Oct 2024- Dic 2025)_# 
 |===
-
-** Desarrollo de sistemas y aplicaciones para automatizar procesos internos y mejorar la experiencia de clientes.
-** Implementación de soluciones tecnológicas que optimizan procesos administrativos y reducen errores operativos.
-** Creación de aplicaciones móviles para clientes, facilitando el acceso a servicios financieros y aumentando la eficiencia del uso de los mismos.
+** Desarrollo de aplicación móvil en React Native integrada con APIs RESTful en Spring Boot y PostgreSQL, facilitando a más de 10.000 clientes el acceso a servicios financieros.
+** Digitalización de procesos de préstamos y consultas de clientes, reduciendo en un 40% la carga de tareas manuales en sucursales.
+** Optimización de procesos administrativos mediante Docker y despliegues automatizados con CI/CD pipelines, disminuyendo errores operativos en un 25%.
 
 [grid=none, frame=none, cols="90,20"]
 |===
 | **Desarrollador de software – _GRÚAS SAN BLAS S.A_** 
 | [small right]#(Ene 2025 – Sep 2025)#
 |===
-** Mantenimiento y desarrollo de nuevas funcionalidades en el ERP de la empresa, incluyendo integración con módulos adicionales.
-** Trabajo en equipo de 12 personas, participando en todas las etapas del ciclo de desarrollo. 
-** Desarrollo backend en Java utilizando CUBA Platform, asegurando eficiencia y escalabilidad del sistema.
-** Contribución a la optimización de procesos internos a través de soluciones de software.
- 
-
-
+** Desarrollo fullstack en Java (Jmix) con MySQL, participando en la evolución del ERP central utilizado por más de 400 usuarios internos.
+** Implementación de funcionalidades clave como automatización de comprobantes, generación de facturas y procesos programados, reduciendo costos operativos en un 15%.
+** Integración de módulos de proveedores, clientes e inventario, mejorando la trazabilidad de los procesos internos.
 
 
