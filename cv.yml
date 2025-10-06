@@ -7,9 +7,17 @@ header:
   font_family: Arial
 
 heading:
-## El titulo del nombre
+## El h1 es el titulo del nombre:
+##  h1_font_size: 30
+##  h1_font_color: 003366
+##  h1_align: center 
+##  h1_top_margin: 16        
+##  h1_bottom_margin: 4
+##  h1_line_height: 0.5
+
+## El subtitulo el === , pero no es utilizado acualmente antes se usaba como titulo
   h3:
-    font_size: 20           # Tamaño de la fuente para el título de nivel 3
+    font_size: 24           # Tamaño de la fuente para el título de nivel 3
     font_color: 003366       # Color del texto en hexadecimal
     align: center              # Alineación del texto
     top_margin: 16           # Margen superior
@@ -22,9 +30,9 @@ heading:
     font_size: 13            # Tamaño de la fuente para el título de nivel 4
     font_color: 003366       # Color del texto en hexadecimal
     align: center            # Alineación del texto
-    top_margin: 15           # Margen superior
-    bottom_margin: 15
-    line_height: 0.5
+    top_margin: 20           # Margen superior
+    bottom_margin: 20
+    line_height: 1.0
 
 ## configuracion de pagina 
 page:
